@@ -1,13 +1,4 @@
-export const asesores = [
-  "Carlos Arturo Garces Vengas",
-  "Edgar Omar Noguera Solis",
-  "Javier Perez Meraz",
-  "Luis Armando Almora Perez",
-  "Mara Erubey Soto Villegas",
-  "Sergio Ivan Quintana Martinez",
-  "Sergio Rene Delgado Sarmiento",
-  "Yoseth Ruiz Castellanos",
-];
+export const asesores = ["Berenice Jiménez González"];
 
 export const motivos = [
   "Muy satisfecho",
